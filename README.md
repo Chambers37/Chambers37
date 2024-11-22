@@ -1,16 +1,18 @@
-## Hi there 👋
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Chambers37.Chambers37">
 
-<!--
-**Chambers37/Chambers37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?front=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=8000&lines=Welcome+to+my+Github!" />
+</h1>
 
-Here are some ideas to get you started:
+<h1 align="center">Hello, I'm Chris Chambers</h1>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  I'm a **Fullstack Web Developer** with a passion for creating dynamic and user-friendly web applications. Leveraging my experience with JavaScript, React, and full-stack development, I’m committed to building seamless, engaging digital experiences that bring ideas to life. Currently, I’m focused on developing scalable applications and exploring emerging technologies to deepen my expertise in backend systems. I thrive on solving problems, continuous learning, and collaborating to deliver impactful solutions. Let’s connect and create something amazing! 🚀
+
+## 📈 My GitHub stats
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=chambers37&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Chambers37's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chambers37&theme=tokyonight&hide_border=true" alt="Chambers37's Streak" height="165">
+  </p>
+</div>
