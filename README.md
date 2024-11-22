@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?front=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=8000&lines=Welcome+to+my+Github!" />
 </h1>
 
-<h1 align="center">Hello, I'm Chris Chambers</h1>  
+<h1 align="center">Hello, I'm Chris Chambers <img src="https://github.com/Chambers37/Chambers37/blob/main/wave.gif" width="48"></h1>  
 
   I'm a **Fullstack Web Developer** with a passion for creating dynamic and user-friendly web applications. Leveraging my experience with JavaScript, React, and full-stack development, I’m committed to building seamless, engaging digital experiences that bring ideas to life. Currently, I’m focused on developing scalable applications and exploring emerging technologies to deepen my expertise in backend systems. I thrive on solving problems, continuous learning, and collaborating to deliver impactful solutions. Let’s connect and create something amazing! 🚀
 
