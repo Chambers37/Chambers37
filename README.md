@@ -12,9 +12,9 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=chambers37&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Chambers37's Stats" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api?username=chambers37&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Chambers37's Stats" height="170" />
    <a href="https://git.io/streak-stats">
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=Chambers37&theme=tokyonight&hide_border=true" alt="GitHub Streak" />      
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=Chambers37&theme=tokyonight&hide_border=true&card_height=170" alt="GitHub Streak" />      
    </a>
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chambers37&theme=tokyonight&layout=compact&hide_border=true"> -->
   </p>
